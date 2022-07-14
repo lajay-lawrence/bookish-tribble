@@ -1,0 +1,5 @@
+C:\Users\Sudhir Kumar Sharma\source\repos\FrameworkConsoleApp\bin\Debug\FrameworkConsoleApp.exe.config
+C:\Users\Sudhir Kumar Sharma\source\repos\FrameworkConsoleApp\bin\Debug\FrameworkConsoleApp.exe
+C:\Users\Sudhir Kumar Sharma\source\repos\FrameworkConsoleApp\bin\Debug\FrameworkConsoleApp.pdb
+C:\Users\Sudhir Kumar Sharma\source\repos\FrameworkConsoleApp\obj\Debug\FrameworkConsoleApp.exe
+C:\Users\Sudhir Kumar Sharma\source\repos\FrameworkConsoleApp\obj\Debug\FrameworkConsoleApp.pdb
